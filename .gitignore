@@ -5,9 +5,9 @@
 
 #Hiding Files
 2023_Data
-2023_cleaned_data.parquet
 2023_combined_data.parquet
 2024_Data
-2024_cleaned_data.parquet
 2024_combined_data.parquet
 T_ONTIME_REPORTING.csv
+combined_data.parquet
+aircrafts.csv
