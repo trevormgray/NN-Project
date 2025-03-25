@@ -11,3 +11,5 @@
 T_ONTIME_REPORTING.csv
 combined_data.parquet
 aircrafts.csv
+weather.parquet
+features-available.txt
